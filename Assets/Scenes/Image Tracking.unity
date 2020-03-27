@@ -276,9 +276,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4dea56a9eaadd1c439095de4f9a371cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_ReferenceLibrary: {fileID: 0}
+  m_ReferenceLibrary: {fileID: 11400000, guid: 2ca84964099310b4ab1649261436d1e7, type: 2}
   m_MaxNumberOfMovingImages: 0
-  m_TrackedImagePrefab: {fileID: 0}
+  m_TrackedImagePrefab: {fileID: 3922455248007748811, guid: be999fe03c257ec4cb0a3a4b5ca72217,
+    type: 3}
 --- !u!114 &960673236
 MonoBehaviour:
   m_ObjectHideFlags: 0
